@@ -7,7 +7,7 @@ Currently, there are four anatomically glandular areas within the prostate:
 - Transition zone (ZT) 
 - Anterior Fibromuscular Tissue (AFT)
 
-#Diagnostic: 
+# Diagnostic: 
 
 The Magnetic Resonance Imaging (MRI) provides high-resolution images in all planes of space, allowing precise anatomical visualization of the prostate. MRI of prostate cancer benefits from technological advances that expand more indications. MRI is a valuable tool to guide therapeutic management of prostate cancer through acquisition sequences[2] as follows: 
 
